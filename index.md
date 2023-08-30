@@ -1,5 +1,11 @@
 # Isaac Wang's First CS193 Homework
 
+## Some of my favorite things about CS193
+- We get to learn about terminals and other basics
+- The ed discussion is quite helpful
+- I can walk to class
+- The class is led by students
+
 
 ## Welcome to GitHub Pages
 
